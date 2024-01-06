@@ -227,3 +227,41 @@ margin-top: 10px;
     margin-top: 50px;
 
 }
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
+    justify-content: space-between;
+    margin-top: 100px;
+    gap: 100px;
+}
+#footer-title{
+    margin-bottom: 20px;
+    
+}
+#footer-text{
+    color: #474747;
+font-size: 16px;
+font-weight: 400;
+margin-top: 0;
+
+}
+.footer-colum{
+    width: 50%;
+}
+.contact input[type="text"],  input[type="email"],textarea{
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 35px;
+    border-radius: 5px;
+background:  #FFF;
+border: 0;
+
+}
+#msg{
+    text-align: left;
+}
+.social-link a{
+    margin-right: 24px;
+
+}
